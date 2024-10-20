@@ -26,22 +26,26 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [Docker Desktop] Install Docker Desktop and verify the command “docker version”.
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/f9e163be-868e-4aa9-8b50-0ce1abb7e7e0)
+
 
 ***
 
 #### #2 [K8S] Enable K8S.Install Kubectl.Verify the command “kubectl version”
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/0b52e167-89de-47f4-85e7-90ef47a58fa7)
+
 
 ***
 
 #### #3 [Impromptu Learning] Complete the learning (as video / pdf) about the following two topics, read about Kubernetes, and then share a screenshot along with a summary of the story
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/e7a69f4a-b720-474d-b252-fc278e003c4d)
+
 
 ***
 
 #### #4 [K8s] Write a manifest for hello-world pod and deploy the same in the namespace of your registration number
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/38c765f8-7ad1-475a-aadc-6cf0d012628f)
+![image](https://github.com/user-attachments/assets/38e4e39b-93e0-4d5f-8828-b9125ecef8a5)
 
 ***
 
