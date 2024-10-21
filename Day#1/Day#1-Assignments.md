@@ -31,16 +31,14 @@
 
 #### #2 Deploy the image `pranesh5264/chatbot-image:v1` (port: 7212) in k8s and share the screenshots
 ![image](https://github.com/user-attachments/assets/baf36bad-6be3-4070-bb67-5fe4ef0b4d82)![image]
-https://github.com/Shadow310524/22AM0XE-Assignments/edit/7376222AL139/harish/Day%231/Day%231-Assignments.md
+
 
 ***
 
 #### #3 Provide a basic example of using Google Colab by following the given steps
-> Add your answer here!
-> - Create a new Google Colab notebook.
-> - Write Python code to print "Hello, World!" in the notebook.
-> - Import the NumPy library and create a 2x2 matrix, then print it.
-> - Load a small dataset (e.g., Iris dataset) from an online source, display the first five rows, and provide a brief explanation of the dataset.
+![image](https://github.com/user-attachments/assets/6fe485f4-f504-43a5-9e25-1a53e08c8e47)
+https://colab.research.google.com/drive/1MPUQtqAqMC9hitnq8zdoKEBD-LbOJFAz?usp=sharing
+
 
 ***
 
@@ -58,6 +56,6 @@ https://github.com/Shadow310524/22AM0XE-Assignments/edit/7376222AL139/harish/Day
 ***
 
 #### #6 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+[> Add your answer here!](https://www.linkedin.com/in/harish-r-319b97285/)
 
 ***
