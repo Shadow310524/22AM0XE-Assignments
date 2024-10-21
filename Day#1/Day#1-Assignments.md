@@ -31,6 +31,7 @@
 
 #### #2 Deploy the image `pranesh5264/chatbot-image:v1` (port: 7212) in k8s and share the screenshots
 ![image](https://github.com/user-attachments/assets/baf36bad-6be3-4070-bb67-5fe4ef0b4d82)![image]
+https://github.com/Shadow310524/22AM0XE-Assignments/edit/7376222AL139/harish/Day%231/Day%231-Assignments.md
 
 ***
 
@@ -44,7 +45,7 @@
 ***
 
 #### #4 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
-(https://github.com/user-attachments/assets/bfe34064-3570-4e78-a611-50e046c6d44c)- Netflix (Hosted on AWS)
+- Netflix (Hosted on AWS)
   - Logo: ![image](https://github.com/user-attachments/assets/bdeb64da-2325-49d5-a29c-8b10bb9f8980)
 
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
