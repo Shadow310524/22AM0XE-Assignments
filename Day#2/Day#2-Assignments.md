@@ -75,6 +75,6 @@
 ***
 
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
-> Add your answer here!
+https://www.linkedin.com/posts/harish-r-33b43325a_i-just-wrapped-up-a-one-credit-course-on-activity-7254540649373278210-kMzt?utm_source=share&utm_medium=member_desktop
 
 ***
